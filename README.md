@@ -6,7 +6,7 @@
 
 # Process Blog
 ![Untitled Notebook-11](https://user-images.githubusercontent.com/57466154/141153004-ab89b595-c6c4-4b21-b335-12475448a3c8.jpg)
-[Reference: Binary Timeline](https://observablehq.com/@d3/gallery)
+[Reference: Binary Timeline](https://observablehq.com/@jjsiman/binary-timeline)
 <h4>Raw data: UD podcast master index</h4>
 
 # Sensor
